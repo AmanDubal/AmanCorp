@@ -77,7 +77,7 @@ export default function App() {
             <div className="flex items-center gap-2 mb-6 lg:mb-8 animate-fade-up">
               <Crown className="w-4 h-4 text-white/70 flex-shrink-0" />
               <span className="font-inter text-white/70 text-xs sm:text-sm tracking-[0.3em] uppercase">
-                World-Class Digital Collective
+                AI/ML • Data Science • DevOps
               </span>
             </div>
 
@@ -88,16 +88,15 @@ export default function App() {
                 style={{ fontSize: 'clamp(2.8rem, 8vw, 7rem)' }}
               >
                 Design.<br />
-                Disrupt.<br />
-                Conquer.
+                Build<br />
+                Deploy.
               </h1>
             </div>
 
             {/* Subtext */}
             <div className="mt-6 lg:mt-8 animate-fade-up-delay-2">
               <p className="font-inter text-white/70 text-sm sm:text-base leading-relaxed max-w-md">
-                We build fierce brand identities<br />
-                that don't just turn heads —{' '}
+                AI/ML & DevOps-focused Computer Science student from Mumbai, building local AI systems, multi-agent applications, data-driven dashboards, and full-stack products using Python, FastAPI, React.js, Streamlit, TensorFlow, PyTorch, and modern APIs. —{' '}
                 <span className="text-white font-semibold">they lead.</span>
               </p>
             </div>
@@ -109,7 +108,7 @@ export default function App() {
                 href="#"
                 className="group flex items-center gap-2 bg-black hover:bg-neutral-900 text-white px-5 sm:px-7 py-3 sm:py-4 text-[11px] sm:text-xs tracking-widest uppercase transition-colors duration-200"
               >
-                SEE OUR WORK
+                SEE My Work
                 <ArrowUpRight className="w-3.5 h-3.5 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform duration-200" />
               </a>
 
@@ -117,8 +116,8 @@ export default function App() {
               <div className="hidden sm:flex items-center gap-3">
                 <Award className="w-8 h-8 text-white/50 flex-shrink-0" />
                 <div>
-                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase">Top-Rated</p>
-                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase">Brand Studio</p>
+                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase">/p>
+                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase"></p>
                 </div>
               </div>
             </div>
