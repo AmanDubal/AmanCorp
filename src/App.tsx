@@ -31,7 +31,7 @@ export default function App() {
         <nav className="flex items-center justify-between px-6 sm:px-10 lg:px-16 py-5 lg:py-7">
           {/* Brand */}
           <span className="font-podium text-white font-bold uppercase text-2xl sm:text-3xl tracking-wider">
-            VANGUARD
+            AmanCorp
           </span>
 
           {/* Desktop Nav Links */}
