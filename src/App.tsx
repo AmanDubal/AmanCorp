@@ -116,7 +116,7 @@ export default function App() {
               <div className="hidden sm:flex items-center gap-3">
                 <Award className="w-8 h-8 text-white/50 flex-shrink-0" />
                 <div>
-                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase">/p>
+                  <p className="font-inter text-white/60 text-xs tracking-wider uppercase"></p>
                   <p className="font-inter text-white/60 text-xs tracking-wider uppercase"></p>
                 </div>
               </div>
